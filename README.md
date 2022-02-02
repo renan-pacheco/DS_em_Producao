@@ -1,2 +1,2 @@
-# Predict-Time-Series-Test--test-
-This repository contains script that predicts the next customer purchases using a Time Series approach.
+# Rossmann stores: Analysing hypothesis about business growth
+This repository contains the scripts that predicts and analysis hypothesis about a Rossmann store.
